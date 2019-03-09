@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1486248906 source:d:\anda\programe\program bomba (mihnea)\bomba\bomba.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
